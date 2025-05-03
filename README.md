@@ -1,5 +1,6 @@
 # CalculadoraJava
 Desenvolvimento de uma calculadora em Java, utilizando Jframe em Swing!
+A calculadora tem funções como adição, subtração, divisão, multiplicação, potenciação e porcentagem. E também tem botões que realizam funções com transformação de números positivos em negativos e inteiros em decimais!
 #
 > Imagem e vídeo de exemplo da interface e do funcionamento:
 <div align="center">
